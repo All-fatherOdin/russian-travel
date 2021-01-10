@@ -1,0 +1,10 @@
+.cover__link {
+   position: relative;
+   display: flex;
+   color: #fff;
+   text-decoration: none;
+}
+
+.cover__link:hover .cover__background {
+   opacity: 0.3;
+}
