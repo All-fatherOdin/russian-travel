@@ -5,6 +5,17 @@
    text-decoration: none;
 }
 
+.cover__link::after {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   background: #2A2C2F;
+   background-size: contain;
+   min-width: 100%;
+   min-height: 100%;
+   opacity: 0.3;
+}
 .cover__link:hover .cover__background {
    opacity: 0.3;
 }
