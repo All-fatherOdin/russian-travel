@@ -9,7 +9,7 @@
 
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-text/section-text.css);
-@import url(../blocks/section-text/__size/section-text_size_big.css);
+@import url(../blocks/section-text/_size/section-text_size_big.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
