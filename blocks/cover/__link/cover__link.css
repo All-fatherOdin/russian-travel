@@ -27,18 +27,18 @@
 
 @media screen and (max-width: 1024px) {
    .cover__link {
-      padding: 19.2% 0
+      padding: 19.2% 0;
    }
 }
 
 @media screen and (max-width: 768px) {
    .cover__link {
-      padding: 15.2% 0
+      padding: 15.2% 0;
    }
 }
 
 @media screen and (max-width: 320px) {
    .cover__link {
-      padding: 11.1% 0
+      padding: 11.1% 0;
    }
 }
