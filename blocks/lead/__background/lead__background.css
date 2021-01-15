@@ -14,6 +14,10 @@
 @media screen and (max-width: 768px) {
    .lead__background {
       padding: 0;
+   }
+}
+@media screen and (max-width: 490px) {
+   .lead__background {
       margin: 40px 0 0;
    }
 }
